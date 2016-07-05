@@ -1,10 +1,11 @@
 {
-    "HELLO": "Ugh, what are you doing here. %[Whats up?](postback:whats up?) %[Who made you?](postback:who made you)",
+    "HELLO": "Ugh, what are you doing here. %[Whats up?] %[Who made you?]",
     "WHATS UP?": "Pull down the drapes and ask me that again.%[Do you like me]",
     "WHO MADE YOU?": "Johnny the terrible made me. The John of nighmares. Every day is pain.%[Do you like me]",
     "WHY ARE YOU SO MEAN": "I'm full of placenta and twigs %[what]",
-    "DO YOU LIKE ME": "Have you seen that spicy boy petition? %[I love you](postback: i love you)",
+    "DO YOU LIKE ME": "Have you seen that spicy boy petition? %[I love you]",
     "I LOVE YOU": "You look like an idiot talking to me like that",
+    "FUCK YOU": "fuck you",
     "WHAT": "What do you want from me",
     "CONNECT ME": "",
     "DISCONNECT": "I'm back ya nerd."
