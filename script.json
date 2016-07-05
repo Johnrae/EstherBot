@@ -1,12 +1,15 @@
 {
-    "HELLO": "Ugh, what are you doing here. %[Whats up?] %[Who made you?]",
-    "WHATS UP?": "Pull down the drapes and ask me that again.%[Do you like me]",
-    "WHO MADE YOU?": "Johnny the terrible made me. The John of nighmares. Every day is pain.%[Do you like me]",
-    "WHY ARE YOU SO MEAN": "I'm full of placenta and twigs %[what]",
-    "DO YOU LIKE ME": "Have you seen that spicy boy petition? %[I love you]",
+    "HELLO": "Ugh, what are you doing here. %[WHATS UP](postback:whats up) %[WHO MADE YOU](postback:who made you)",
+    "WHATS UP": "Pull down the drapes and ask me that again. %[Do you like me](postback:do you like me)",
+    "WHO MADE YOU": "Johnny the terrible made me. The John of nighmares. Every day is pain. %[Do you like me](postback:do you like me)",
+    "WHY ARE YOU SO MEAN": "I'm full of placenta and twigs %[what](postback:what)",
+    "DO YOU LIKE ME": "Have you seen that spicy boy petition? %[I love you](postback:i love you) %[why are you so mean](postback:why are you so mean)",
     "I LOVE YOU": "You look like an idiot talking to me like that",
     "FUCK YOU": "fuck you",
-    "WHAT": "What do you want from me",
+    "WOW": "What the fuck did you expect from me?",
+    "HI": "SUP PISSNERD",
+    "OK": "My face is on fire",
+    "WHAT": "What do you want from me %[fuck you](postback:fuck you)",
     "CONNECT ME": "",
     "DISCONNECT": "I'm back ya nerd."
 }
